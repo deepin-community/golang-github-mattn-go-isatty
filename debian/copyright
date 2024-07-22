@@ -1,14 +1,15 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang-github-mattn-go-isatty
 Source: https://github.com/mattn/go-isatty
+Upstream-Name: go-isatty
 
 Files: *
-Copyright: (c) 2014-2015, Yasuhiro Matsumoto <mattn.jp@gmail.com>
+Copyright: (c) 2014, Yasuhiro Matsumoto <mattn.jp@gmail.com>
 License: Expat
 
 Files: debian/*
 Copyright: 2015 Fernando Ike de Oliveira <fike@midstorm.org>
            2015 Alexandre Viau <alexandre@alexandreviau.net>
+           2018 Anthony Fok <foka@debian.org>
 License: Expat
 
 License: Expat
